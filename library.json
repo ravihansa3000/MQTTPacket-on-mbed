@@ -1,0 +1,16 @@
+{
+  "name": "MQTTPacket-on-mbed",
+  "keywords": "mqtt, mbed",
+  "description": "Eclipse Paho - simple de/serialization of MQTT packets, plus helper functions. http://eclipse.org/paho",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ravihansa3000/MQTTPacket-on-mbed"
+  },
+  "authors":
+  [
+  ],
+  "version": "0.0.1",
+  "frameworks": "mbed",
+  "platforms": "*"
+}
